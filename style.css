@@ -1,0 +1,172 @@
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: var(--white);
+}
+
+.area {
+  fill: lightsteelblue;
+  stroke-width: 0;
+}
+
+#chart-section {
+  margin-right: 0px; 
+}
+
+#current-site-title{
+  font-size: 2em;
+  font-weight: bold;
+  text-align: left;
+  /* text-transform: uppercase; */
+  color: #245ba3;
+  margin-left: 20px;
+}
+
+#time-selector-container {
+  margin-top: 0%;
+  text-align: left;
+}
+
+
+
+.custom-hr {
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+
+.custom-line {
+  height: 700px;
+  width: 5px;
+  background-color: #cce; /* or any other color you prefer */
+  margin-left: 45px ; /* Adjust margin as needed */
+  margin-bottom: -20px;
+}
+
+
+.chart {
+  /* max-width: 1600px; */
+  height: 180px;
+  /* margin: 20px; */
+}
+
+.chart svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.chart .nv-wrap .nv-area {
+  fill: #c0d6ff;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+ul :hover{
+  color: blue;
+  cursor: pointer;
+
+  
+}
+
+.time-block:hover {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#time-selector-container{
+  background-color: var(--white);;
+}
+
+
+.time-block{
+  display:inline-block;
+  position: relative;
+  padding: 20px;
+  color: #5585d3;
+  border-radius: 20px
+}
+
+.time-block.graph-controller:hover{
+  color: blue;
+}
+
+#content-container{
+  display: flex;
+}
+
+#right-side-container{
+  top: 80px;
+  position: relative;
+  left: 40px;
+}
+#selector-container{
+  /* display:inline-block; */
+  top: 0px;
+  position: relative;
+  left: 0px;
+  
+}
+#download-buttons-container{
+  top: 0px;
+  position: relative;
+  left: -10px;
+}
+
+#chart-container{
+  /* display:inline-block; */
+  width:1000px;
+}
+
+#site-container{
+  background-color: var(--white);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  border: 2px solid #245ba3
+  
+}
+
+
+
+.site-controller{
+  /* font-size: 1.2rem;
+  border-radius: 3px;
+  padding: 5px 10px; */
+}
+
+#selector-header{
+  margin-bottom: 10px;
+  font-size: larger;
+}
+
+.highlight{
+  /* background-color: rgba(255, 0, 0, 0.3); */
+  text-decoration: underline;
+  color: blue;
+}
+
+.download-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #4CAF50; /* Green */
+  color: white;
+  border: 1px solid #4CAF50;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.download-button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}

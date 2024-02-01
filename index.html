@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Weather Station</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.6/nv.d3.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.6/nv.d3.min.css" />
+
+
+</head>
+
+<body>
+  <div id="content-container">
+    <!-- add the day week month here horizontal-->
+    <div id="chart-section">
+      <div id="current-site-title">Site 10 - BayView</div>
+      <hr class="custom-hr">
+
+      <div id="time-selector-container">
+        <div class="time-block time-controller default-time">Daily</div>
+        <div class="time-block time-controller">Weekly</div>
+        <div class="time-block time-controller">Monthly</div>
+        <div class="time-block time-controller">Yearly</div>
+      </div>
+      <div id="chart-container">
+        <div class="chart" id="chart1">
+          <svg></svg>
+        </div>
+
+        <div class="chart" id="chart2">
+          <svg></svg>
+        </div>
+
+        <div class="chart" id="chart3">
+          <svg></svg>
+        </div>
+      </div>     
+    </div> 
+
+
+    <div class="custom-line">
+      <hr class="custom-hr">
+    </div>
+
+    <div id = "right-side-container">
+
+      <div id="selector-container">
+        <div id="selector-header"> Crest Sites:</div>
+        <div id="site-container">
+          <ul>
+            <!-- if you change here, must change siteMapping in script.js -->
+            <li class="site-controller default-site">Site 1 - Queens Botanical Garden</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 2 - Queensborough Community College</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 3 - Ronald Edmonds Learning Center</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 4 - Astoria</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 5 - Middletown Houses</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 6 - Dyckman Houses</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 7 - Williamsburg Houses</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 8 - Polo Ground</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 9 - Far Rockaway</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 10 - Bay View</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 11 - Baisley Park</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 12 - East River</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 13 - Astoria</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 14 - Haber Coney Island</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 15 - Walt Whitman MS</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 16 - JHS High School</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 17 - MDC School</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 18 - Haber Coney Island</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 19 - Haber Coney Island</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 20 - Haber Coney Island</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 21 - Haber Coney Island</li>
+            <hr class="custom-hr">
+            <li class="site-controller">Site 22 - New York Harbor School</li>
+            
+            <hr class="custom-hr">
+          </ul>
+        </div>
+      </div>
+
+      <div id="download-buttons-container">
+        <button id="downloadButtonJson" class="download-button" onClick="downloadJson()">Download Json</button>
+        <button id="downloadButtonCSV" class="download-button" onClick="downloadCSV()">Download CSV</button>
+      </div>
+
+    </div>
+  </div>
+  <!-- <script src="script.js"></script> -->
+  <!-- // Data for the line chart -->
+  <script src="script.js"></script>
+
+
+</body>
+
+</html>
