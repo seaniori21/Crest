@@ -3,6 +3,18 @@
   --white: #ffffff;
 }
 
+.nv-x .nv-axislabel{
+  font-size: 14px;
+  fill: black;
+  font-weight: bold;
+}
+
+.nv-y .nv-axislabel{
+  font-size: 14px;
+  fill: black;
+  font-weight: bold;
+}
+
 html {
   height: 100%;
   width: 100%;
@@ -102,6 +114,7 @@ ul :hover{
 
 #content-container{
   display: flex;
+  margin-left: 5px;
 }
 
 #right-side-container{

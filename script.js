@@ -170,6 +170,11 @@ function createChart(chartId, xLabel, yLabel) {
       }
     })
 
+  // Select the x-axis text element and apply styles
+  d3.selectAll('.nv-x text')
+    .style("font-weight", "bold")
+    .style("font-size", "30px");
+
   chart.xAxis.showMaxMin(false);
   chart.xAxis
     .tickValues(function(d) {
@@ -214,7 +219,7 @@ function createChart(chartId, xLabel, yLabel) {
   d3.select(`#${chartId} svg`)
     .style('border', borderStyle)
     .style('margin', borderMargin )
-    .style('background-color', '#f7f7f7')  
+    .style('background-color', '#f7f7f7')
     .datum([])
     .call(chart);
 
@@ -361,13 +366,14 @@ function updateChart(chartId, data) {
   else{
     new_minY = Math.floor(minY / 10) * 10;
   }
-  
+
+
   chart.yDomain([new_minY, new_maxY]);
+
 
   // // Add shaded area under the line
   // const areaData = modifiedData.map(point => ({ x: point.x, y: point.y }));
-
-  //  
+  
   // const area = d3.svg.area()
   //  .x(function(d) { return chart.x()(d); })
   //  .y0(chart.height())
