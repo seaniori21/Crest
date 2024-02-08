@@ -11,12 +11,9 @@
 
 const nv = window.nv
 
-// need to change base URL
 // file needs to be in this baseURl
 // We will change baseURL into the backend url proxy
-
-//const baseUrl = "https://raw.githubusercontent.com/szhangCCNY/weatherProjectTest/main/"
- const baseUrl = "http://127.0.0.1:5000/"
+const baseUrl = "http://127.0.0.1:5000/"
 
 const timeMapping = {
   "Daily": "1D",

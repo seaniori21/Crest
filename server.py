@@ -12,6 +12,19 @@ CORS(app)
 scheduler = APScheduler()
 scheduler.init_app(app)
 
+# scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', second=30)
+# scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', second=59)
+# scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', second=59)
+# scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', second=59)
+# scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', second=59)
+
+scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', minute=15)
+scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', day=1)
+scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', week=1)
+scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', week=1)
+scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', week=1)
+scheduler.start()
+
 atexit.register(lambda: scheduler.shutdown())
 
 # routes
@@ -50,18 +63,9 @@ def api_response(sitemapping, time_map):
     else:
         return jsonify({"error": "Not Found"}), 404
 
+#gunicorn --bind 0.0.0.0:5000 wsgi:app
+#gunicorn -w 3 --forwarded-allow-ips="10.170.3.217,10.170.3.220" --bind 0.0.0.0:5000 wsgi:app
 
 if __name__ == "__main__":
-    scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', minute=15)
-    scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', day=1)
-    scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', week=1)
-    scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', week=1)
-    scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', week=1)
-    # scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', second=30)
-    # scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', second=60)
-    # scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', second=60)
-    # scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', second=60)
-    # scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', second=60)
-    scheduler.start()
-    app.run(debug=True, use_reloader=False, threaded=True)
+    app.run(host='0.0.0.0', debug=True, use_reloader=False, threaded=True)
 
