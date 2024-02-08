@@ -37,20 +37,17 @@ def fetch_data():
                 file_url = url + link
                 file_name = os.path.join(db_folder_path, link)
 
-                print(f"Downloading {file_url}")
-
-
                 csv_response = requests.get(file_url)
 
                 if csv_response.status_code == 200:
                     # If download successful, save the CSV content to a file
                     with open(file_name, 'w', encoding='utf-8') as file:
                         file.write(csv_response.text)
-                        
-                    print(f"Saved {file_name}")
                     
                 else:
                     print(f"Failed to download {file_url}")
+            
+            print("Downloaded data")
 
         else:
             print(f"The download csv link is not working{url}")
@@ -83,16 +80,20 @@ def get_daily():
             with open(output_file_path, 'w') as json_file:
                 json_file.write(json_data)
 
-            print(f"Processed {file_path}. Output saved to {output_file_path}")
+            # print(f"Processed {file_path}. Output saved to {output_file_path}")
 
         except Exception as e:
-            print(f"Error processing {file_path}: {e}")
+            # print(f"Error processing {file_path}: {e}")
+            print()
+
 
     # Iterate through each CSV file in the db_folder
     for filename in os.listdir(db_folder_path):
         if filename.endswith(".csv"):
             file_path = os.path.join(db_folder_path, filename)
             process_csv_file(file_path)
+    
+    print("Daily Data Updated")
 
 
 
@@ -128,16 +129,19 @@ def get_weekly():
             with open(output_file_path, 'w') as json_file:
                 json.dump(json_data, json_file, indent=2)
 
-            print(f"Processed {file_path}. Output saved to {output_file_path}")
+            # print(f"Processed {file_path}. Output saved to {output_file_path}")
 
         except Exception as e:
-            print(f"Error processing {file_path}: {e}")
+            # print(f"Error processing {file_path}: {e}")
+            print()
 
     # Iterate through each CSV file in the db_folder
     for filename in os.listdir(db_folder_path):
         if filename.endswith(".csv"):
             file_path = os.path.join(db_folder_path, filename)
             process_csv_file(file_path)
+
+    print("Weekly Data Updated")
 
 
 def get_monthly():
@@ -170,16 +174,19 @@ def get_monthly():
             with open(output_file_path, 'w') as json_file:
                 json.dump(json_data, json_file, indent=2)
 
-            print(f"Processed {file_path}. Output saved to {output_file_path}")
+            # print(f"Processed {file_path}. Output saved to {output_file_path}")
 
         except Exception as e:
-            print(f"Error processing {file_path}: {e}")
+            # print(f"Error processing {file_path}: {e}")
+            print()
 
     # Iterate through each CSV file in the db_folder
     for filename in os.listdir(db_folder_path):
         if filename.endswith(".csv"):
             file_path = os.path.join(db_folder_path, filename)
             process_csv_file(file_path)
+
+    print("Monthly Data Updated")
 
 def get_yearly():
     
@@ -209,9 +216,11 @@ def get_yearly():
             with open(output_file_path, 'w') as json_file:
                 json.dump(json_data, json_file, indent=2)
 
-            print(f"Processed {file_path}. Output saved to {output_file_path}")
+            # print(f"Processed {file_path}. Output saved to {output_file_path}")
+
         except Exception as e:
-            print(f"Error processing {file_path}: {e}")
+            # print(f"Error processing {file_path}: {e}")
+            print()
 
     # Iterate through each CSV file in the db_folder
     for filename in os.listdir(db_folder_path):
@@ -219,11 +228,12 @@ def get_yearly():
             file_path = os.path.join(db_folder_path, filename)
             process_csv_file(file_path)
 
-    print("Conversion completed.")
+    print("Yearly Data Updated")
 
 
-fetch_data()
-get_daily()
-get_weekly()
-get_monthly()
-get_yearly()
+# fetch_data()
+# get_daily()
+# get_weekly()
+# get_monthly()
+# get_yearly()
+    

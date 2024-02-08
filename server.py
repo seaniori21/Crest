@@ -1,14 +1,18 @@
+import atexit
 from flask import Flask, jsonify, request, json
 from flask_cors import CORS
 import os
-from apscheduler.schedulers.background import BackgroundScheduler
-
-
-
+from flask_apscheduler import APScheduler
+# from apscheduler.schedulers.background import BackgroundScheduler
+from backend import fetch_data, get_daily, get_weekly, get_monthly, get_yearly
 
 
 app = Flask(__name__)
 CORS(app)
+scheduler = APScheduler()
+scheduler.init_app(app)
+
+atexit.register(lambda: scheduler.shutdown())
 
 # routes
 @app.route('/test', methods=['GET', 'POST'])
@@ -48,5 +52,16 @@ def api_response(sitemapping, time_map):
 
 
 if __name__ == "__main__":
-    app.run(debug=True, threaded=True)
+    scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', minute=15)
+    scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', day=1)
+    scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', week=1)
+    scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', week=1)
+    scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', week=1)
+    # scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', second=30)
+    # scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', second=60)
+    # scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', second=60)
+    # scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', second=60)
+    # scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', second=60)
+    scheduler.start()
+    app.run(debug=True, use_reloader=False, threaded=True)
 

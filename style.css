@@ -8,6 +8,19 @@
   fill: black;
   font-weight: bold;
 }
+#chart1 .nv-x text {
+  display: none; /* Hide x-axis labels */
+}
+#chart1 {
+  margin-bottom: -30px
+}
+
+#chart2 .nv-x text {
+  display: none; /* Hide x-axis labels */
+}
+#chart2 {
+  margin-bottom: -30px
+}
 
 .nv-y .nv-axislabel{
   font-size: 14px;
@@ -62,7 +75,7 @@ html {
 
 .chart {
   /* max-width: 1600px; */
-  height: 180px;
+  height: 200px;
   /* margin: 20px; */
 }
 
