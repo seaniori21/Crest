@@ -1,3 +1,14 @@
+'''
+Tasks:
+1. UI: let charts temp and humidity start from 0 to 100
+    Let rainfall have 6 ticks always with leeway at the top
+
+2. Backend:
+    Let there always be data within the website daily, weekly, monthly...etc
+    Do this by adjusting backend, instead of 24 hours fro
+'''
+
+
 import atexit
 from flask import Flask, jsonify, request, json
 from flask_cors import CORS

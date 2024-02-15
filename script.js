@@ -64,20 +64,30 @@ let currentSite;
 let jsonDataD;
 
 // chartName gets name of HTML element for rendering
-const chartId = "chart1" // temperature
-const chartId2 = "chart2" // humility
-const chartId3 = "chart3" // rainfall
+const chartId = 'chart1' // temperature
+const chartId2 = 'chart2' // humility
+const chartId3 = 'chart3' // rainfall
 
 // Border size or look
 const borderStyle = '2px solid #ccc'
 const borderMargin = '5px'
 
 async function fetchData(url) {
-  const resp = await fetch(url);
-  const json = await resp.json();
-  jsonDataD = json;
-  console.log("Json:",json)
-  return json;
+  try {
+    const resp = await fetch(url);
+    
+    if (!resp.ok) {
+      throw new Error('HTTP error! Status: ${resp.status}');
+    }
+    
+    const json = await resp.json();
+    jsonDataD = json;
+    //console.log('Fetch Data Json:', json);
+    
+    return json;
+  } catch (error) {
+    console.error('Error fetching data:', error);
+  }
 }
 
 async function downloadJson() {
@@ -188,10 +198,11 @@ function createChart(chartId, xLabel, yLabel) {
         hour = date.getHours();
         minute = date.getMinutes();
         if (hour == 0 && minute == 0){
-          // console.log(date);
+          // console.log("dates",date);
           wholeDates.push(date);
         }
       }
+
       // now we have x num of dates split the dates in tickCounts
       // for one day case
       if (wholeDates.length == 1){
@@ -202,18 +213,20 @@ function createChart(chartId, xLabel, yLabel) {
       }
       else {
         var dataLength = wholeDates.length;
+
         var step = Math.floor(dataLength / (tickCount - 1));
-        for (var i = step - 1; i < dataLength - step; i += step) {
+        if (step<1){
+          step +=1;
+        }
+        for (var i = 0; i < wholeDates.length; i += step) {
           values.push(wholeDates[i]);
         }
       }
-      // console.log(values);
       return values;
     });
 
 
   chart.yAxis.axisLabel(yLabel);
-  chart.yAxis.showMaxMin(true);
   
   // Add borders to the chart lines
   d3.select(`#${chartId} svg`)
@@ -272,6 +285,10 @@ function createBarChart(chartId, xLabel, yLabel) {
       else {
         var dataLength = wholeDates.length;
         var step = Math.floor(dataLength / (tickCount - 1));
+
+        if (step < 1) {
+          step = 1
+        }
         for (var i = step - 1; i < dataLength - step; i += step) {
           values.push(wholeDates[i]);
         }
@@ -316,39 +333,43 @@ const chartMap = {
 function findMinMax(data){
   if (data.length > 0) {
     const minMax = data.reduce((accumulator, currVal) => {
-      const min = accumulator[0];
-      const max = accumulator[1];
-      const currY = currVal.y;
-      if (currY > min) {
-        if (currY > max) {
-          return [min, currY]
-        }
-        return [min, max]
-      }
-      else {
-        return [currY, max]
-      }
-    }, [data[0].y, data[0].y])
-    return minMax
+      const min = Math.min(accumulator[0], currVal.y);
+      const max = Math.max(accumulator[1], currVal.y);
+      return [min, max];
+    }, [data[0].y, data[0].y]);
+  
+    //console.log("Findminmax", minMax);
+    return minMax;
   }
+  console.log("data is < 0")
   return [-Infinity, Infinity];  
 }
+
 
 function updateChart(chartId, data) {
   const chart = chartMap[chartId]
 
-   // Replace y-values with 0 by null to create gaps in the chart
-   const modifiedData = data.map(entry => ({
-    x: entry.x,
-    y: entry.y === 0 ? null : parseFloat(entry.y.toFixed(2))
-  }));
+   // Replace y-values with 0 to null to create gaps in the chart
+  const modifiedData = data.map(entry => {
+    if (entry && entry.y != null) {
+      return {
+        x: entry.x != null ? entry.x : null,
+        y: typeof entry.y === 'number' && entry.y !== 0 ? parseFloat(entry.y.toFixed(2)) : null
+      };
+    } else {
+      return null; // or handle the case when entry or entry.y is null
+    }
+  });
 
   // calculate custom Y domain
-  // const minMaxY = findMinMax(data);
   const minMaxY = findMinMax(modifiedData);
+  //console.log("minMax: ",chartId , minMaxY);
+ 
 
   let minY = minMaxY[0];
   let maxY = minMaxY[1];
+  // let minY = 0;
+  // let maxY = 100;
 
   let new_minY;
   let new_maxY;
@@ -368,24 +389,24 @@ function updateChart(chartId, data) {
   }
 
 
-  chart.yDomain([new_minY, new_maxY]);
+  // chart.yDomain([new_minY, new_maxY]);
+  // chart.yDomain([0, 100]);
 
+  //
+  // var yValues = data.map(function(d) {
+  //   return d.y; 
+  // })
+  // // Calculate the tick values based on the number of ticks
+  // var tickValues = d3.scale.linear()
+  // .domain([
+  //   d3.round(d3.min(yValues),1),
+  //   d3.round(d3.max(yValues),1)
+  // ])
+  // .ticks(5);//NUMBER OF TICKS YOU WANT
 
-  // // Add shaded area under the line
-  // const areaData = modifiedData.map(point => ({ x: point.x, y: point.y }));
-  
-  // const area = d3.svg.area()
-  //  .x(function(d) { return chart.x()(d); })
-  //  .y0(chart.height())
-  //  .y1(function(d) { return chart.y()(d); });
-
-  // d3.select(`#${chartId} svg`)
-  //   .append('path')
-  //   .datum([{ values: areaData }])
-  //   .attr('class', 'area')
-  //   .attr('d', area)
-  //   .style('fill', 'blue')
-  //   .call(chart);
+  // Set the y-axis tick values
+  chart.yAxis.ticks(5);
+  chart.yAxis.showMaxMin(true);
 
   d3.select(`#${chartId} svg`)
     .datum([{ values: modifiedData }])
@@ -398,6 +419,7 @@ function updateChart(chartId, data) {
 
 
 function updateCharts(json_data) {
+  console.log("UpdateCharts: ",json_data);
   const airTf = processJsonData(json_data, "AirTF");
   const rh = processJsonData(json_data, "RH");
   const rainFall = processJsonData(json_data, "Rainfall_Tot");
@@ -444,21 +466,24 @@ async function onTimeClick(e) {
   highlightTime(e.target);
   try{
     const fetchUrl = baseUrl + siteMap + "-" + timeMap + ".json";
-    console.log("FETCHURL",fetchUrl);
     const json_data = await fetchData(fetchUrl);
 
+    console.log("FETCH Success TimeClick",fetchUrl);
+
     // data is fetched, update all charts with the corresponding json data
+    console.log("Timezone",json_data);
     updateCharts(json_data); 
   }
   catch{
     // fetch failed, so update chart with no data
     const fetchUrl = baseUrl + siteMap + "-" + timeMap + ".json";
-    console.log("FETCHURL",fetchUrl);
+    console.log("Fetch Failed?",fetchUrl);
     updateCharts([]);
   }
 }
 
 async function onSiteClick(e) {
+  console.log('onSiteClick called', e.target.innerText);
 
   const siteSelected = e.target.innerText;
   currentSite = siteSelected;
@@ -478,13 +503,14 @@ async function onSiteClick(e) {
   const siteMap = siteMapping[currentSite];
   try{
     const fetchUrl = baseUrl + siteMap + "-" + timeMapping[defaultTime.innerHTML] + ".json";
-    console.log("FETCHURL",fetchUrl);
     const json_data = await fetchData(fetchUrl);
+    console.log("FETCH Success Site Click",fetchUrl);
     // data is fetched, update all charts with the corresponding json data
     updateCharts(json_data); 
   }
-  catch{
+  catch (error){
     // fetch failed, so update chart with no data
+    console.error("FETCH Failed site click", error);
     updateCharts([]);
   }
 }

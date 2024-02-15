@@ -1,9 +1,39 @@
 [
   {
+    "TIMESTAMP": "2024-01-09 02:00:00",
+    "AirTF": 34.55875,
+    "RH": 80.485,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-01-09 04:00:00",
+    "AirTF": 38.45875,
+    "RH": 71.04,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-01-09 06:00:00",
+    "AirTF": 41.05375,
+    "RH": 67.24125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-01-09 08:00:00",
+    "AirTF": 42.75125,
+    "RH": 69.045,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-01-09 10:00:00",
+    "AirTF": 42.86625,
+    "RH": 81.4,
+    "Rainfall_Tot": 0.04
+  },
+  {
     "TIMESTAMP": "2024-01-09 12:00:00",
-    "AirTF": 43.825,
-    "RH": 90.575,
-    "Rainfall_Tot": 0.07
+    "AirTF": 43.44625,
+    "RH": 89.9,
+    "Rainfall_Tot": 0.13
   },
   {
     "TIMESTAMP": "2024-01-09 14:00:00",
