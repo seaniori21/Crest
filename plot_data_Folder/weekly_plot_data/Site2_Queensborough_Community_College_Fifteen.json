@@ -1,2018 +1,8 @@
 [
   {
-    "TIMESTAMP": "2024-01-02 16:00:00",
-    "AirTF": 41.53439,
-    "RH": 42.396240000000006,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-02 18:00:00",
-    "AirTF": 39.87367875,
-    "RH": 45.338475,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-02 20:00:00",
-    "AirTF": 38.16969375,
-    "RH": 50.4273825,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-02 22:00:00",
-    "AirTF": 38.060488750000005,
-    "RH": 51.58389875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 00:00:00",
-    "AirTF": 37.524775,
-    "RH": 53.39193625,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 02:00:00",
-    "AirTF": 36.69648,
-    "RH": 56.93303375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 04:00:00",
-    "AirTF": 35.02237125,
-    "RH": 63.62603375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 06:00:00",
-    "AirTF": 33.933085,
-    "RH": 64.9872625,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 08:00:00",
-    "AirTF": 34.4399525,
-    "RH": 65.19750125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 10:00:00",
-    "AirTF": 37.49077625,
-    "RH": 60.016065,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 12:00:00",
-    "AirTF": 40.73322375,
-    "RH": 54.794565,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 14:00:00",
-    "AirTF": 44.29641375,
-    "RH": 51.99331625,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 16:00:00",
-    "AirTF": 42.59037,
-    "RH": 51.241446249999996,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 18:00:00",
-    "AirTF": 40.53713875,
-    "RH": 52.90849875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 20:00:00",
-    "AirTF": 40.0574,
-    "RH": 54.5499825,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-03 22:00:00",
-    "AirTF": 39.81529875,
-    "RH": 54.87240375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 00:00:00",
-    "AirTF": 39.512415000000004,
-    "RH": 55.00671375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 02:00:00",
-    "AirTF": 39.36509125,
-    "RH": 56.250988750000005,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 04:00:00",
-    "AirTF": 38.7582925,
-    "RH": 59.46356125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 06:00:00",
-    "AirTF": 39.16145125,
-    "RH": 59.48988875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 08:00:00",
-    "AirTF": 38.983565,
-    "RH": 63.28835,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 10:00:00",
-    "AirTF": 41.004515,
-    "RH": 62.924338750000004,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 12:00:00",
-    "AirTF": 43.7761525,
-    "RH": 59.137895,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 14:00:00",
-    "AirTF": 46.0038325,
-    "RH": 50.58325375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 16:00:00",
-    "AirTF": 44.29847375,
-    "RH": 42.40368125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 18:00:00",
-    "AirTF": 39.50898,
-    "RH": 38.53921125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 20:00:00",
-    "AirTF": 35.451285,
-    "RH": 37.04634625,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-04 22:00:00",
-    "AirTF": 32.06494875,
-    "RH": 37.3227875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 00:00:00",
-    "AirTF": 29.34929,
-    "RH": 43.37514375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 02:00:00",
-    "AirTF": 27.647025,
-    "RH": 49.08046375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 04:00:00",
-    "AirTF": 26.6054675,
-    "RH": 51.301735,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 06:00:00",
-    "AirTF": 26.8207825,
-    "RH": 53.0651275,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 08:00:00",
-    "AirTF": 27.08692375,
-    "RH": 54.60549875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 10:00:00",
-    "AirTF": 30.12435875,
-    "RH": 49.4511525,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 12:00:00",
-    "AirTF": 32.95025375,
-    "RH": 44.02723125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 14:00:00",
-    "AirTF": 35.649088750000004,
-    "RH": 40.70591875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 16:00:00",
-    "AirTF": 37.115775,
-    "RH": 39.17451125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 18:00:00",
-    "AirTF": 35.75726125,
-    "RH": 41.534482499999996,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 20:00:00",
-    "AirTF": 34.80396375,
-    "RH": 44.96607,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-05 22:00:00",
-    "AirTF": 34.21227375,
-    "RH": 49.95367375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 00:00:00",
-    "AirTF": 32.93514375,
-    "RH": 54.8268075,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 02:00:00",
-    "AirTF": 31.39908625,
-    "RH": 58.75767,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 04:00:00",
-    "AirTF": 30.303615,
-    "RH": 62.921095,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 06:00:00",
-    "AirTF": 28.99145625,
-    "RH": 70.03629125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 08:00:00",
-    "AirTF": 28.981156249999998,
-    "RH": 73.77541875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 10:00:00",
-    "AirTF": 33.93205125,
-    "RH": 66.53296999999999,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 12:00:00",
-    "AirTF": 37.3177025,
-    "RH": 63.2244375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 14:00:00",
-    "AirTF": 37.669692500000004,
-    "RH": 59.88118,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 16:00:00",
-    "AirTF": 36.49661375,
-    "RH": 66.40075999999999,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 18:00:00",
-    "AirTF": 33.65252,
-    "RH": 88.18954125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 20:00:00",
-    "AirTF": 33.907328750000005,
-    "RH": 92.74826875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-06 22:00:00",
-    "AirTF": 34.9475075,
-    "RH": 92.53955,
-    "Rainfall_Tot": 0.04
-  },
-  {
-    "TIMESTAMP": "2024-01-07 00:00:00",
-    "AirTF": 35.76344125,
-    "RH": 92.8324,
-    "Rainfall_Tot": 0.06
-  },
-  {
-    "TIMESTAMP": "2024-01-07 02:00:00",
-    "AirTF": 36.246615,
-    "RH": 93.0867125,
-    "Rainfall_Tot": 0.04
-  },
-  {
-    "TIMESTAMP": "2024-01-07 04:00:00",
-    "AirTF": 36.9220975,
-    "RH": 94.08412125,
-    "Rainfall_Tot": 0.03
-  },
-  {
-    "TIMESTAMP": "2024-01-07 06:00:00",
-    "AirTF": 37.040915,
-    "RH": 94.7085475,
-    "Rainfall_Tot": 0.03
-  },
-  {
-    "TIMESTAMP": "2024-01-07 08:00:00",
-    "AirTF": 37.35753625,
-    "RH": 95.50505749999999,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-07 10:00:00",
-    "AirTF": 37.5433175,
-    "RH": 96.08770375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-07 12:00:00",
-    "AirTF": 37.098262500000004,
-    "RH": 95.68668375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-07 14:00:00",
-    "AirTF": 39.132262499999996,
-    "RH": 95.16794875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-07 16:00:00",
-    "AirTF": 38.22532375,
-    "RH": 83.3309075,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-07 18:00:00",
-    "AirTF": 36.05705625,
-    "RH": 76.5854425,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-07 20:00:00",
-    "AirTF": 35.92209875,
-    "RH": 72.3539075,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-07 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 10:00:00",
-    "AirTF": 39.00829142857143,
-    "RH": 54.75714571428572,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 12:00:00",
-    "AirTF": 41.3544475,
-    "RH": 49.231945,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 14:00:00",
-    "AirTF": 43.2335675,
-    "RH": 45.59106875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 16:00:00",
-    "AirTF": 43.77649625,
-    "RH": 44.2555975,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-08 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 10:00:00",
-    "AirTF": 42.46434166666666,
-    "RH": 70.026755,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 12:00:00",
-    "AirTF": 43.89669,
-    "RH": 70.3339125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 14:00:00",
-    "AirTF": 44.07010875,
-    "RH": 82.04770875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 16:00:00",
-    "AirTF": 43.24181,
-    "RH": 86.99029,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-09 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 10:00:00",
-    "AirTF": 51.12597333333333,
-    "RH": 52.34435666666667,
-    "Rainfall_Tot": 0.1
-  },
-  {
-    "TIMESTAMP": "2024-01-10 12:00:00",
-    "AirTF": 51.7359775,
-    "RH": 45.16906125,
-    "Rainfall_Tot": 0.08
-  },
-  {
-    "TIMESTAMP": "2024-01-10 14:00:00",
-    "AirTF": 52.303287499999996,
-    "RH": 41.54116,
-    "Rainfall_Tot": 0.02
-  },
-  {
-    "TIMESTAMP": "2024-01-10 16:00:00",
-    "AirTF": 48.98426,
-    "RH": 43.54112,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 18:00:00",
-    "AirTF": 47.5879675,
-    "RH": 44.6982125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-10 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 10:00:00",
-    "AirTF": 43.74318375,
-    "RH": 48.15403125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 12:00:00",
-    "AirTF": 45.81392875,
-    "RH": 46.85747875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 14:00:00",
-    "AirTF": 46.49799125,
-    "RH": 46.8805625,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 16:00:00",
-    "AirTF": 46.00142625,
-    "RH": 44.14781,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 18:00:00",
-    "AirTF": 45.750055,
-    "RH": 43.889675,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-11 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 10:00:00",
-    "AirTF": 42.264181428571426,
-    "RH": 60.91251714285714,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 12:00:00",
-    "AirTF": 47.0450425,
-    "RH": 53.0618875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 14:00:00",
-    "AirTF": 49.36200625,
-    "RH": 42.84743875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 16:00:00",
-    "AirTF": 48.0429825,
-    "RH": 49.39449125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 18:00:00",
-    "AirTF": 44.004998,
-    "RH": 66.696316,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-12 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 10:00:00",
-    "AirTF": 55.325805714285714,
-    "RH": 97.88751428571429,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 12:00:00",
-    "AirTF": 55.184813749999996,
-    "RH": 73.6916675,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 14:00:00",
-    "AirTF": 54.86098125,
-    "RH": 62.522935000000004,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 16:00:00",
-    "AirTF": 50.027531249999996,
-    "RH": 48.05615875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 18:00:00",
-    "AirTF": 46.18869833333333,
-    "RH": 35.644101666666664,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-13 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 10:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 12:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 14:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 16:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-14 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 10:00:00",
-    "AirTF": 26.78129375,
-    "RH": 39.82012125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 12:00:00",
-    "AirTF": 30.93514125,
-    "RH": 36.46274375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 14:00:00",
-    "AirTF": 31.688235,
-    "RH": 36.557945000000004,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 16:00:00",
-    "AirTF": 30.58830375,
-    "RH": 29.83919,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 18:00:00",
-    "AirTF": 29.46799,
-    "RH": 30.504189999999998,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-15 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 10:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 12:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 14:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 16:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-16 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 10:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 12:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 14:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 16:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-17 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 10:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 12:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 14:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 16:00:00",
-    "AirTF": 32.422666666666665,
-    "RH": 40.98751166666667,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-18 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 10:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 12:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 14:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 16:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-19 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 10:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 12:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 14:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 16:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-20 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 10:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 12:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 14:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 16:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-21 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 10:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 12:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 14:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 16:00:00",
-    "AirTF": 37.58796,
-    "RH": 31.360926666666668,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-22 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 10:00:00",
-    "AirTF": 41.496758,
-    "RH": 42.520174000000004,
-    "Rainfall_Tot": 0.01
-  },
-  {
-    "TIMESTAMP": "2024-01-23 12:00:00",
-    "AirTF": 42.8101475,
-    "RH": 49.62838875,
-    "Rainfall_Tot": 0.09
-  },
-  {
-    "TIMESTAMP": "2024-01-23 14:00:00",
-    "AirTF": 41.201975000000004,
-    "RH": 69.94624375000001,
-    "Rainfall_Tot": 0.03
-  },
-  {
-    "TIMESTAMP": "2024-01-23 16:00:00",
-    "AirTF": 40.27546125,
-    "RH": 71.88458875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 18:00:00",
-    "AirTF": 39.321475,
-    "RH": 70.55332000000001,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-23 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 10:00:00",
-    "AirTF": 41.288515714285715,
-    "RH": 91.80735857142858,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 12:00:00",
-    "AirTF": 41.97292125,
-    "RH": 90.87212125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 14:00:00",
-    "AirTF": 41.6817125,
-    "RH": 94.19400875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 16:00:00",
-    "AirTF": 44.273405,
-    "RH": 95.70271,
-    "Rainfall_Tot": 0.01
-  },
-  {
-    "TIMESTAMP": "2024-01-24 18:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 20:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-24 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 10:00:00",
-    "AirTF": 52.62231166666666,
-    "RH": 97.343115,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 12:00:00",
-    "AirTF": 56.119225,
-    "RH": 97.95087875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 14:00:00",
-    "AirTF": 60.6587175,
-    "RH": 93.2198775,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 16:00:00",
-    "AirTF": 57.05191625,
-    "RH": 87.76161625,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 18:00:00",
-    "AirTF": 54.02134875,
-    "RH": 90.56419875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 20:00:00",
-    "AirTF": 51.50108625,
-    "RH": 91.537755,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-25 22:00:00",
-    "AirTF": 50.313246666666664,
-    "RH": 91.68453666666666,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 10:00:00",
-    "AirTF": 42.753715,
-    "RH": 96.68835,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 12:00:00",
-    "AirTF": 44.91660625,
-    "RH": 97.73185375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 14:00:00",
-    "AirTF": 45.16489,
-    "RH": 96.16592625,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 16:00:00",
-    "AirTF": 43.00829625,
-    "RH": 95.15841,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 18:00:00",
-    "AirTF": 43.21262125,
-    "RH": 95.28890375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 20:00:00",
-    "AirTF": 42.610863333333334,
-    "RH": 94.83726333333334,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-26 22:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 00:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 02:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 10:00:00",
-    "AirTF": 43.80980625,
-    "RH": 98.24868125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 12:00:00",
-    "AirTF": 46.01516625,
-    "RH": 85.85132,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 14:00:00",
-    "AirTF": 49.324574999999996,
-    "RH": 74.12226375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 16:00:00",
-    "AirTF": 45.4251925,
-    "RH": 70.96120375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 18:00:00",
-    "AirTF": 44.62848875,
-    "RH": 73.27405,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 20:00:00",
-    "AirTF": 43.50829375,
-    "RH": 74.81365625000001,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-27 22:00:00",
-    "AirTF": 42.9653675,
-    "RH": 80.9572025,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 00:00:00",
-    "AirTF": 42.01069625,
-    "RH": 84.97143875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 02:00:00",
-    "AirTF": 41.57044875,
-    "RH": 82.08853875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 04:00:00",
-    "AirTF": 40.033018750000004,
-    "RH": 88.617845,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 06:00:00",
-    "AirTF": 39.32743166666666,
-    "RH": 92.911635,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 08:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 10:00:00",
-    "AirTF": 39.74181,
-    "RH": 94.34769285714286,
-    "Rainfall_Tot": 0.05
-  },
-  {
-    "TIMESTAMP": "2024-01-28 12:00:00",
-    "AirTF": 40.48494,
-    "RH": 92.67596,
-    "Rainfall_Tot": 0.04
-  },
-  {
-    "TIMESTAMP": "2024-01-28 14:00:00",
-    "AirTF": 40.02409125,
-    "RH": 93.61594375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 16:00:00",
-    "AirTF": 39.24902125,
-    "RH": 93.611935,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 18:00:00",
-    "AirTF": 37.595175,
-    "RH": 94.91668875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 20:00:00",
-    "AirTF": 37.07251,
-    "RH": 95.88967625,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-28 22:00:00",
-    "AirTF": 37.02545875,
-    "RH": 96.02265,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 00:00:00",
-    "AirTF": 36.467768750000005,
-    "RH": 95.92954875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 02:00:00",
-    "AirTF": 36.400757142857145,
-    "RH": 96.28560142857143,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 04:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 06:00:00",
-    "AirTF": 0.0,
-    "RH": 0.0,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 08:00:00",
-    "AirTF": 36.767905,
-    "RH": 87.471825,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 10:00:00",
-    "AirTF": 38.928965,
-    "RH": 83.59266124999999,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 12:00:00",
-    "AirTF": 42.2685975,
-    "RH": 76.79415875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 14:00:00",
-    "AirTF": 40.660078750000004,
-    "RH": 71.4103025,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 16:00:00",
-    "AirTF": 38.88775625,
-    "RH": 69.4567,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 18:00:00",
-    "AirTF": 37.33418375,
-    "RH": 67.66888875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 20:00:00",
-    "AirTF": 36.5773125,
-    "RH": 65.23413,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-29 22:00:00",
-    "AirTF": 36.26172375,
-    "RH": 66.60623125000001,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-30 00:00:00",
-    "AirTF": 35.61302875,
-    "RH": 63.890645,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-30 02:00:00",
-    "AirTF": 35.32491,
-    "RH": 61.6464825,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-30 04:00:00",
-    "AirTF": 34.94579,
-    "RH": 64.576125,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-30 06:00:00",
-    "AirTF": 34.60685,
-    "RH": 65.92971875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-30 08:00:00",
-    "AirTF": 34.896,
-    "RH": 65.52049375,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-30 10:00:00",
-    "AirTF": 36.8314375,
-    "RH": 64.01636875,
-    "Rainfall_Tot": 0.0
-  },
-  {
-    "TIMESTAMP": "2024-01-30 12:00:00",
-    "AirTF": 38.11715375,
-    "RH": 63.564795000000004,
-    "Rainfall_Tot": 0.0
-  },
-  {
     "TIMESTAMP": "2024-01-30 14:00:00",
-    "AirTF": 39.0041725,
-    "RH": 55.46687875,
+    "AirTF": 39.64565,
+    "RH": 53.545519999999996,
     "Rainfall_Tot": 0.0
   },
   {
@@ -2161,8 +151,2018 @@
   },
   {
     "TIMESTAMP": "2024-02-01 16:00:00",
-    "AirTF": 45.84117333333333,
-    "RH": 60.31470166666667,
+    "AirTF": 46.181375,
+    "RH": 59.728175,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-01 18:00:00",
+    "AirTF": 45.481165000000004,
+    "RH": 58.09813625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-01 20:00:00",
+    "AirTF": 45.01344625,
+    "RH": 59.8598125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-01 22:00:00",
+    "AirTF": 43.83109625,
+    "RH": 67.43231875000001,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 00:00:00",
+    "AirTF": 43.6940775,
+    "RH": 68.89923375000001,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 02:00:00",
+    "AirTF": 43.0433225,
+    "RH": 76.117075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 04:00:00",
+    "AirTF": 41.2373475,
+    "RH": 88.0378675,
+    "Rainfall_Tot": 0.02
+  },
+  {
+    "TIMESTAMP": "2024-02-02 06:00:00",
+    "AirTF": 41.0251225,
+    "RH": 91.2800125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 08:00:00",
+    "AirTF": 41.1885825,
+    "RH": 91.342015,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 10:00:00",
+    "AirTF": 42.403898749999996,
+    "RH": 91.13272875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 12:00:00",
+    "AirTF": 43.093115,
+    "RH": 94.1808475,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 14:00:00",
+    "AirTF": 42.35994375,
+    "RH": 92.08873249999999,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 16:00:00",
+    "AirTF": 42.800875000000005,
+    "RH": 88.3372025,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 18:00:00",
+    "AirTF": 41.69854375,
+    "RH": 79.57269875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 20:00:00",
+    "AirTF": 39.58624375,
+    "RH": 74.96551625000001,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-02 22:00:00",
+    "AirTF": 38.78919875,
+    "RH": 70.89519125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 00:00:00",
+    "AirTF": 37.59449,
+    "RH": 65.29823375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 02:00:00",
+    "AirTF": 35.50554375,
+    "RH": 64.28136624999999,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 04:00:00",
+    "AirTF": 34.12161375,
+    "RH": 65.754775,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 06:00:00",
+    "AirTF": 33.32491125,
+    "RH": 66.9030875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 08:00:00",
+    "AirTF": 32.79606375,
+    "RH": 66.70486625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 10:00:00",
+    "AirTF": 35.01275375,
+    "RH": 60.6124475,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 12:00:00",
+    "AirTF": 37.37367625,
+    "RH": 51.397125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 14:00:00",
+    "AirTF": 39.5965475,
+    "RH": 46.6892075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 16:00:00",
+    "AirTF": 40.94819625,
+    "RH": 41.755216250000004,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 18:00:00",
+    "AirTF": 39.51241625,
+    "RH": 42.85087125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 20:00:00",
+    "AirTF": 37.68205625,
+    "RH": 43.62449375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-03 22:00:00",
+    "AirTF": 36.30327625,
+    "RH": 47.0675275,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 00:00:00",
+    "AirTF": 34.775805,
+    "RH": 54.95005125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 02:00:00",
+    "AirTF": 33.563919999999996,
+    "RH": 58.4667275,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 04:00:00",
+    "AirTF": 31.99558,
+    "RH": 59.8903375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 06:00:00",
+    "AirTF": 31.12642,
+    "RH": 62.390722499999995,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 08:00:00",
+    "AirTF": 30.9574625,
+    "RH": 64.47730125000001,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 10:00:00",
+    "AirTF": 34.0062275,
+    "RH": 57.448335,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 12:00:00",
+    "AirTF": 36.84139375,
+    "RH": 49.37884875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 14:00:00",
+    "AirTF": 41.1171575,
+    "RH": 42.202408750000004,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 16:00:00",
+    "AirTF": 43.2297925,
+    "RH": 38.97533875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 18:00:00",
+    "AirTF": 41.98872,
+    "RH": 42.9065825,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 20:00:00",
+    "AirTF": 38.580065000000005,
+    "RH": 52.62556875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-04 22:00:00",
+    "AirTF": 36.594485,
+    "RH": 56.68482875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 00:00:00",
+    "AirTF": 34.7397475,
+    "RH": 58.39117625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 02:00:00",
+    "AirTF": 34.36337125,
+    "RH": 55.76010875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 04:00:00",
+    "AirTF": 33.57148,
+    "RH": 57.1467075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 06:00:00",
+    "AirTF": 32.665225,
+    "RH": 51.14090625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 08:00:00",
+    "AirTF": 32.06323375,
+    "RH": 51.78212125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 10:00:00",
+    "AirTF": 34.73768625,
+    "RH": 50.75743375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 12:00:00",
+    "AirTF": 38.92003875,
+    "RH": 44.061383750000005,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 14:00:00",
+    "AirTF": 41.06736,
+    "RH": 38.9398525,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 16:00:00",
+    "AirTF": 42.51276,
+    "RH": 34.12796125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 18:00:00",
+    "AirTF": 40.13844375,
+    "RH": 34.89929,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 20:00:00",
+    "AirTF": 36.64565375,
+    "RH": 33.3026375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-05 22:00:00",
+    "AirTF": 34.97395,
+    "RH": 34.85827125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 00:00:00",
+    "AirTF": 33.266185,
+    "RH": 39.24663,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 02:00:00",
+    "AirTF": 31.21570375,
+    "RH": 44.1567725,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 04:00:00",
+    "AirTF": 29.58692875,
+    "RH": 43.3787675,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 06:00:00",
+    "AirTF": 28.718453750000002,
+    "RH": 47.820735,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 08:00:00",
+    "AirTF": 28.73665125,
+    "RH": 52.678415,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 10:00:00",
+    "AirTF": 32.382945,
+    "RH": 51.12468875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 12:00:00",
+    "AirTF": 35.21845375,
+    "RH": 48.492667499999996,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 14:00:00",
+    "AirTF": 38.13088875,
+    "RH": 43.73190375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 16:00:00",
+    "AirTF": 39.70369125,
+    "RH": 40.990562499999996,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 18:00:00",
+    "AirTF": 38.6484025,
+    "RH": 42.30008875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 20:00:00",
+    "AirTF": 36.32388125,
+    "RH": 55.40735375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-06 22:00:00",
+    "AirTF": 33.28301625,
+    "RH": 66.53927,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 00:00:00",
+    "AirTF": 32.40320875,
+    "RH": 67.36172875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 02:00:00",
+    "AirTF": 31.2964075,
+    "RH": 68.664575,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 04:00:00",
+    "AirTF": 30.43788625,
+    "RH": 72.514545,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 06:00:00",
+    "AirTF": 29.9499075,
+    "RH": 72.07956375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 08:00:00",
+    "AirTF": 30.746267500000002,
+    "RH": 72.77229125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 10:00:00",
+    "AirTF": 36.500392500000004,
+    "RH": 59.44696125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 12:00:00",
+    "AirTF": 40.14909,
+    "RH": 49.37102125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 14:00:00",
+    "AirTF": 43.22155125,
+    "RH": 43.002925000000005,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 16:00:00",
+    "AirTF": 45.180685,
+    "RH": 39.74762,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 18:00:00",
+    "AirTF": 43.65218375,
+    "RH": 40.03703625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 20:00:00",
+    "AirTF": 40.0189375,
+    "RH": 51.2836075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-07 22:00:00",
+    "AirTF": 37.658702500000004,
+    "RH": 65.9436475,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 00:00:00",
+    "AirTF": 36.3757325,
+    "RH": 74.12970250000001,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 02:00:00",
+    "AirTF": 34.94098125,
+    "RH": 82.18659875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 04:00:00",
+    "AirTF": 34.203688750000005,
+    "RH": 85.24597125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 06:00:00",
+    "AirTF": 33.01687375,
+    "RH": 84.08392125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 08:00:00",
+    "AirTF": 33.00622875,
+    "RH": 84.05225375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 10:00:00",
+    "AirTF": 39.60513375,
+    "RH": 66.93361375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 12:00:00",
+    "AirTF": 45.3022525,
+    "RH": 47.7093175,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 14:00:00",
+    "AirTF": 48.83281875,
+    "RH": 38.15669375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 16:00:00",
+    "AirTF": 50.59964125,
+    "RH": 36.35094625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 18:00:00",
+    "AirTF": 47.1642025,
+    "RH": 44.86304625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 20:00:00",
+    "AirTF": 41.68412,
+    "RH": 72.05743625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-08 22:00:00",
+    "AirTF": 40.357195000000004,
+    "RH": 81.64935750000001,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 00:00:00",
+    "AirTF": 40.60375875,
+    "RH": 83.7397525,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 02:00:00",
+    "AirTF": 41.36372,
+    "RH": 77.6355025,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 04:00:00",
+    "AirTF": 41.46330625,
+    "RH": 71.23860125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 06:00:00",
+    "AirTF": 41.5525925,
+    "RH": 70.63611,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 08:00:00",
+    "AirTF": 42.16763375,
+    "RH": 84.05530125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 10:00:00",
+    "AirTF": 46.52615625,
+    "RH": 82.33579125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 12:00:00",
+    "AirTF": 48.91626375,
+    "RH": 71.8861125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 14:00:00",
+    "AirTF": 51.4138575,
+    "RH": 66.08291875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 16:00:00",
+    "AirTF": 51.74971625,
+    "RH": 69.7840825,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 18:00:00",
+    "AirTF": 47.5683925,
+    "RH": 76.869135,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 20:00:00",
+    "AirTF": 44.2706575,
+    "RH": 84.42885375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-09 22:00:00",
+    "AirTF": 42.88570125,
+    "RH": 87.8352575,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 00:00:00",
+    "AirTF": 41.36749625,
+    "RH": 90.26371875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 02:00:00",
+    "AirTF": 41.318388750000004,
+    "RH": 91.17241,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 04:00:00",
+    "AirTF": 40.28645125,
+    "RH": 90.3137025,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 06:00:00",
+    "AirTF": 41.3946275,
+    "RH": 89.22662875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 08:00:00",
+    "AirTF": 42.5601475,
+    "RH": 85.8593325,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 10:00:00",
+    "AirTF": 49.00864125,
+    "RH": 75.3573825,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 12:00:00",
+    "AirTF": 58.0536325,
+    "RH": 59.43341875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 14:00:00",
+    "AirTF": 60.80501,
+    "RH": 57.497555,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 16:00:00",
+    "AirTF": 60.51620375,
+    "RH": 57.11809375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 18:00:00",
+    "AirTF": 57.0848825,
+    "RH": 60.9249475,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 20:00:00",
+    "AirTF": 53.541955,
+    "RH": 67.50805625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-10 22:00:00",
+    "AirTF": 53.557065,
+    "RH": 68.02794,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 00:00:00",
+    "AirTF": 52.9107725,
+    "RH": 70.71624125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 02:00:00",
+    "AirTF": 50.94476875,
+    "RH": 75.29156375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 04:00:00",
+    "AirTF": 49.655621249999996,
+    "RH": 77.22875625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 06:00:00",
+    "AirTF": 47.1573325,
+    "RH": 62.12897125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 08:00:00",
+    "AirTF": 45.49318375,
+    "RH": 56.733095,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 10:00:00",
+    "AirTF": 48.04298125,
+    "RH": 52.7551075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 12:00:00",
+    "AirTF": 50.3146175,
+    "RH": 53.26373375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 14:00:00",
+    "AirTF": 49.8338475,
+    "RH": 54.079515,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 16:00:00",
+    "AirTF": 50.69889,
+    "RH": 49.9229575,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 18:00:00",
+    "AirTF": 47.56873625,
+    "RH": 50.1402575,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 20:00:00",
+    "AirTF": 45.3568575,
+    "RH": 53.20191875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-11 22:00:00",
+    "AirTF": 44.55808875,
+    "RH": 54.72034625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 00:00:00",
+    "AirTF": 43.41145375,
+    "RH": 56.54860875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 02:00:00",
+    "AirTF": 41.04298,
+    "RH": 64.50973125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 04:00:00",
+    "AirTF": 38.45266,
+    "RH": 67.40942125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 06:00:00",
+    "AirTF": 36.54228875,
+    "RH": 69.78312625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 08:00:00",
+    "AirTF": 36.621275,
+    "RH": 72.1885,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 10:00:00",
+    "AirTF": 40.00486,
+    "RH": 68.59971,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 12:00:00",
+    "AirTF": 41.508295000000004,
+    "RH": 61.54670375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 14:00:00",
+    "AirTF": 49.18206125,
+    "RH": 58.2736575,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 16:00:00",
+    "AirTF": 49.47911,
+    "RH": 54.528805,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 18:00:00",
+    "AirTF": 44.6339825,
+    "RH": 58.971725,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 20:00:00",
+    "AirTF": 41.79916125,
+    "RH": 59.67304,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-12 22:00:00",
+    "AirTF": 39.84517375,
+    "RH": 60.62045875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-13 00:00:00",
+    "AirTF": 39.2304775,
+    "RH": 59.38038,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-13 02:00:00",
+    "AirTF": 38.04812625,
+    "RH": 66.17563875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-13 04:00:00",
+    "AirTF": 34.8115175,
+    "RH": 82.55003875,
+    "Rainfall_Tot": 0.01
+  },
+  {
+    "TIMESTAMP": "2024-02-13 06:00:00",
+    "AirTF": 32.950252500000005,
+    "RH": 92.46800625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-13 08:00:00",
+    "AirTF": 32.1408425,
+    "RH": 94.52940125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-13 10:00:00",
+    "AirTF": 32.167285,
+    "RH": 96.18862874999999,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-13 12:00:00",
+    "AirTF": 32.91350875,
+    "RH": 96.99506124999999,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-13 14:00:00",
+    "AirTF": 34.54846875,
+    "RH": 95.30531,
+    "Rainfall_Tot": 0.01
+  },
+  {
+    "TIMESTAMP": "2024-02-13 16:00:00",
+    "AirTF": 40.6820575,
+    "RH": 75.438655,
+    "Rainfall_Tot": 0.060000000000000005
+  },
+  {
+    "TIMESTAMP": "2024-02-13 18:00:00",
+    "AirTF": 39.131235,
+    "RH": 68.81204625,
+    "Rainfall_Tot": 0.13
+  },
+  {
+    "TIMESTAMP": "2024-02-13 20:00:00",
+    "AirTF": 38.3585675,
+    "RH": 57.631105,
+    "Rainfall_Tot": 0.1
+  },
+  {
+    "TIMESTAMP": "2024-02-13 22:00:00",
+    "AirTF": 37.1473725,
+    "RH": 55.51514625,
+    "Rainfall_Tot": 0.04
+  },
+  {
+    "TIMESTAMP": "2024-02-14 00:00:00",
+    "AirTF": 37.5364525,
+    "RH": 57.14938125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 02:00:00",
+    "AirTF": 36.80568125,
+    "RH": 55.548148749999996,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 04:00:00",
+    "AirTF": 34.3551325,
+    "RH": 56.40628375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 06:00:00",
+    "AirTF": 32.0302675,
+    "RH": 41.4612225,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 08:00:00",
+    "AirTF": 29.81975625,
+    "RH": 45.3415275,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 10:00:00",
+    "AirTF": 31.5381675,
+    "RH": 44.68619375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 12:00:00",
+    "AirTF": 32.557395,
+    "RH": 42.062945,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 14:00:00",
+    "AirTF": 34.24146375,
+    "RH": 37.55897625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 16:00:00",
+    "AirTF": 35.23871625,
+    "RH": 33.7006075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 18:00:00",
+    "AirTF": 34.06323625,
+    "RH": 32.9956725,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 20:00:00",
+    "AirTF": 32.2521075,
+    "RH": 34.9880025,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-14 22:00:00",
+    "AirTF": 30.97394625,
+    "RH": 38.138186250000004,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 00:00:00",
+    "AirTF": 29.50210625,
+    "RH": 42.85469,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 02:00:00",
+    "AirTF": 28.47394625,
+    "RH": 47.9735525,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 04:00:00",
+    "AirTF": 27.78095,
+    "RH": 51.1367075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 06:00:00",
+    "AirTF": 27.092075,
+    "RH": 53.6584575,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 08:00:00",
+    "AirTF": 27.47532,
+    "RH": 54.1760525,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 10:00:00",
+    "AirTF": 31.3276575,
+    "RH": 47.84362875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 12:00:00",
+    "AirTF": 35.13123125,
+    "RH": 38.925545,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 14:00:00",
+    "AirTF": 40.5498475,
+    "RH": 30.71793,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 16:00:00",
+    "AirTF": 41.87539625,
+    "RH": 38.0851525,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 18:00:00",
+    "AirTF": 36.381918750000004,
+    "RH": 54.5135425,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 20:00:00",
+    "AirTF": 36.363372500000004,
+    "RH": 60.60195375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-15 22:00:00",
+    "AirTF": 36.06495375,
+    "RH": 61.58619375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-16 00:00:00",
+    "AirTF": 35.86612,
+    "RH": 69.22203875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-16 02:00:00",
+    "AirTF": 37.57731625,
+    "RH": 64.89759,
+    "Rainfall_Tot": 0.02
+  },
+  {
+    "TIMESTAMP": "2024-02-16 04:00:00",
+    "AirTF": 38.73356875,
+    "RH": 55.9526075,
+    "Rainfall_Tot": 0.02
+  },
+  {
+    "TIMESTAMP": "2024-02-16 06:00:00",
+    "AirTF": 38.0161875,
+    "RH": 42.30886375,
+    "Rainfall_Tot": 0.01
+  },
+  {
+    "TIMESTAMP": "2024-02-16 08:00:00",
+    "AirTF": 36.28645,
+    "RH": 38.48044875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-16 10:00:00",
+    "AirTF": 37.99215125,
+    "RH": 35.16581125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-16 12:00:00",
+    "AirTF": 39.46811375,
+    "RH": 32.801075,
+    "Rainfall_Tot": 0.01
+  },
+  {
+    "TIMESTAMP": "2024-02-16 14:00:00",
+    "AirTF": 41.252798750000004,
+    "RH": 30.377385,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-16 16:00:00",
+    "AirTF": 41.68480375,
+    "RH": 29.11345625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-16 18:00:00",
+    "AirTF": 40.36715,
+    "RH": 29.649362500000002,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-16 20:00:00",
+    "AirTF": 36.924155,
+    "RH": 40.043713749999995,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-16 22:00:00",
+    "AirTF": 35.40561125,
+    "RH": 42.53722875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 00:00:00",
+    "AirTF": 35.1532075,
+    "RH": 43.4728225,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 02:00:00",
+    "AirTF": 32.49420875,
+    "RH": 69.53987875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 04:00:00",
+    "AirTF": 29.75038875,
+    "RH": 90.82041875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 06:00:00",
+    "AirTF": 29.428618333333333,
+    "RH": 92.64658000000001,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 08:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 10:00:00",
+    "AirTF": 31.656247142857143,
+    "RH": 91.44825142857142,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 12:00:00",
+    "AirTF": 32.9557475,
+    "RH": 86.731205,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 14:00:00",
+    "AirTF": 34.56666875,
+    "RH": 68.86050875,
+    "Rainfall_Tot": 0.05
+  },
+  {
+    "TIMESTAMP": "2024-02-17 16:00:00",
+    "AirTF": 35.2953775,
+    "RH": 46.703900000000004,
+    "Rainfall_Tot": 0.02
+  },
+  {
+    "TIMESTAMP": "2024-02-17 18:00:00",
+    "AirTF": 33.83639142857143,
+    "RH": 37.933479999999996,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 20:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-17 22:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 00:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 08:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 10:00:00",
+    "AirTF": 30.280265,
+    "RH": 44.02704,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 12:00:00",
+    "AirTF": 32.94372625,
+    "RH": 39.4110825,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 14:00:00",
+    "AirTF": 36.49421125,
+    "RH": 35.38120375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 16:00:00",
+    "AirTF": 39.0512175,
+    "RH": 32.53588875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 18:00:00",
+    "AirTF": 39.566898333333334,
+    "RH": 31.850345,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 20:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-18 22:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 00:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 08:00:00",
+    "AirTF": 34.615433333333335,
+    "RH": 47.04418666666667,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 10:00:00",
+    "AirTF": 36.7898825,
+    "RH": 42.60553,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 12:00:00",
+    "AirTF": 37.91523,
+    "RH": 34.84968625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 14:00:00",
+    "AirTF": 39.0869325,
+    "RH": 29.046875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 16:00:00",
+    "AirTF": 39.225325,
+    "RH": 26.366395,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 18:00:00",
+    "AirTF": 38.896754,
+    "RH": 24.332434,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 20:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-19 22:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 00:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 08:00:00",
+    "AirTF": 26.787589999999998,
+    "RH": 43.853813333333335,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 10:00:00",
+    "AirTF": 29.982187500000002,
+    "RH": 38.2162175,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 12:00:00",
+    "AirTF": 33.5302675,
+    "RH": 32.77341,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 14:00:00",
+    "AirTF": 35.2734,
+    "RH": 38.35663375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 16:00:00",
+    "AirTF": 35.8331525,
+    "RH": 35.088165000000004,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 18:00:00",
+    "AirTF": 35.546752000000005,
+    "RH": 34.782076,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 20:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-20 22:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 00:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 08:00:00",
+    "AirTF": 31.57147,
+    "RH": 68.41274,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 10:00:00",
+    "AirTF": 37.572508750000004,
+    "RH": 63.23302125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 12:00:00",
+    "AirTF": 44.04675625,
+    "RH": 55.63285875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 14:00:00",
+    "AirTF": 44.28508125,
+    "RH": 54.2454925,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 16:00:00",
+    "AirTF": 41.867155,
+    "RH": 54.35176125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 18:00:00",
+    "AirTF": 38.16626,
+    "RH": 57.10302,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 20:00:00",
+    "AirTF": 35.540915,
+    "RH": 58.94806875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-21 22:00:00",
+    "AirTF": 35.362685,
+    "RH": 60.624275,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 00:00:00",
+    "AirTF": 35.234595,
+    "RH": 62.87149,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 02:00:00",
+    "AirTF": 34.399775000000005,
+    "RH": 66.33932999999999,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 08:00:00",
+    "AirTF": 35.3771075,
+    "RH": 71.0378925,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 10:00:00",
+    "AirTF": 41.937895,
+    "RH": 64.6768575,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 12:00:00",
+    "AirTF": 45.14737625,
+    "RH": 61.90995125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 14:00:00",
+    "AirTF": 47.299848749999995,
+    "RH": 63.303993750000004,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 16:00:00",
+    "AirTF": 46.05362375,
+    "RH": 68.07772875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 18:00:00",
+    "AirTF": 40.802595,
+    "RH": 79.18884875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 20:00:00",
+    "AirTF": 40.24558625,
+    "RH": 83.41332625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-22 22:00:00",
+    "AirTF": 40.53954375,
+    "RH": 85.68266875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 00:00:00",
+    "AirTF": 40.528439999999996,
+    "RH": 87.46749666666666,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 08:00:00",
+    "AirTF": 40.713786,
+    "RH": 95.924972,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 10:00:00",
+    "AirTF": 43.78542375,
+    "RH": 96.87181875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 12:00:00",
+    "AirTF": 47.5515675,
+    "RH": 92.13967124999999,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 14:00:00",
+    "AirTF": 48.7404375,
+    "RH": 86.0894175,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 16:00:00",
+    "AirTF": 46.14291,
+    "RH": 81.12242,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 18:00:00",
+    "AirTF": 44.487004999999996,
+    "RH": 82.40065625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 20:00:00",
+    "AirTF": 43.259325000000004,
+    "RH": 84.41569,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-23 22:00:00",
+    "AirTF": 42.91729,
+    "RH": 82.04828,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 00:00:00",
+    "AirTF": 41.95850125,
+    "RH": 83.1576775,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 02:00:00",
+    "AirTF": 41.0653,
+    "RH": 83.52035375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 04:00:00",
+    "AirTF": 39.95609,
+    "RH": 84.539885,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 08:00:00",
+    "AirTF": 41.893457999999995,
+    "RH": 67.453034,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 10:00:00",
+    "AirTF": 44.12196,
+    "RH": 58.33260625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 12:00:00",
+    "AirTF": 47.841401250000004,
+    "RH": 49.3092125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 14:00:00",
+    "AirTF": 43.4846025,
+    "RH": 34.0688175,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 16:00:00",
+    "AirTF": 43.93240125,
+    "RH": 34.37655,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 18:00:00",
+    "AirTF": 41.24902,
+    "RH": 31.3847125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 20:00:00",
+    "AirTF": 36.723948750000005,
+    "RH": 33.123495,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-24 22:00:00",
+    "AirTF": 32.4880275,
+    "RH": 33.94748,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 00:00:00",
+    "AirTF": 30.04091125,
+    "RH": 35.776695000000004,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 02:00:00",
+    "AirTF": 27.60306375,
+    "RH": 38.19466125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 04:00:00",
+    "AirTF": 26.122295,
+    "RH": 40.258345000000006,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 08:00:00",
+    "AirTF": 23.516526,
+    "RH": 44.939284,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 10:00:00",
+    "AirTF": 27.590015,
+    "RH": 42.35904375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 12:00:00",
+    "AirTF": 30.988367500000003,
+    "RH": 35.230295,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 14:00:00",
+    "AirTF": 36.7888575,
+    "RH": 32.571754999999996,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 16:00:00",
+    "AirTF": 37.9619325,
+    "RH": 37.759294999999995,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 18:00:00",
+    "AirTF": 35.07903125,
+    "RH": 51.68424875,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 20:00:00",
+    "AirTF": 33.212959999999995,
+    "RH": 61.49042,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-25 22:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 00:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 08:00:00",
+    "AirTF": 37.98151,
+    "RH": 71.5862025,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 10:00:00",
+    "AirTF": 44.728764999999996,
+    "RH": 64.60989375,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 12:00:00",
+    "AirTF": 47.049504999999996,
+    "RH": 66.692465,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 14:00:00",
+    "AirTF": 47.6892725,
+    "RH": 59.54807625,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 16:00:00",
+    "AirTF": 50.56153125,
+    "RH": 51.3055475,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 18:00:00",
+    "AirTF": 48.58728,
+    "RH": 60.6153075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 20:00:00",
+    "AirTF": 44.28130125,
+    "RH": 75.00711,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-26 22:00:00",
+    "AirTF": 43.62506,
+    "RH": 75.001575,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 00:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 08:00:00",
+    "AirTF": 41.26173,
+    "RH": 96.7499125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 10:00:00",
+    "AirTF": 43.90733625,
+    "RH": 97.11296875000001,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 12:00:00",
+    "AirTF": 52.85239125,
+    "RH": 80.10021,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 14:00:00",
+    "AirTF": 56.795395,
+    "RH": 63.0140075,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 16:00:00",
+    "AirTF": 58.6607775,
+    "RH": 65.50599249999999,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 18:00:00",
+    "AirTF": 51.61304,
+    "RH": 73.7738925,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-27 20:00:00",
+    "AirTF": 49.982658333333326,
+    "RH": 88.25097333333333,
+    "Rainfall_Tot": 0.05
+  },
+  {
+    "TIMESTAMP": "2024-02-27 22:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 00:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 08:00:00",
+    "AirTF": 50.270655000000005,
+    "RH": 95.193125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 10:00:00",
+    "AirTF": 51.55191,
+    "RH": 94.457095,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 12:00:00",
+    "AirTF": 53.926915,
+    "RH": 94.9002825,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 14:00:00",
+    "AirTF": 56.63398875,
+    "RH": 91.97560125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 16:00:00",
+    "AirTF": 55.36887875,
+    "RH": 91.1636325,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 18:00:00",
+    "AirTF": 52.45198,
+    "RH": 91.80027,
+    "Rainfall_Tot": 0.02
+  },
+  {
+    "TIMESTAMP": "2024-02-28 20:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-28 22:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-29 00:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-29 02:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-29 04:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-29 06:00:00",
+    "AirTF": 0.0,
+    "RH": 0.0,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-29 08:00:00",
+    "AirTF": 33.006092,
+    "RH": 38.459428,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-29 10:00:00",
+    "AirTF": 37.147025,
+    "RH": 35.30470125,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-29 12:00:00",
+    "AirTF": 40.01001125,
+    "RH": 32.68317,
+    "Rainfall_Tot": 0.0
+  },
+  {
+    "TIMESTAMP": "2024-02-29 14:00:00",
+    "AirTF": 40.63512166666667,
+    "RH": 29.65839166666667,
     "Rainfall_Tot": 0.0
   }
 ]

@@ -114,9 +114,11 @@ def get_weekly():
         try:
 
             # Read the CSV file into a DataFrame
-            df = pd.read_csv(file_path)
+            df = pd.read_csv(file_path, dtype={'AirTF': 'object', 'RH': 'object', 'Rainfall_Tot': 'float'})
             df['TIMESTAMP'] = pd.to_datetime(df['TIMESTAMP'])
 
+            df['AirTF'] = pd.to_numeric(df['AirTF'], errors='coerce')
+            df['RH'] = pd.to_numeric(df['RH'], errors='coerce')
             # Get the most recent timestamp
             max_timestamp = df['TIMESTAMP'].max()
 
@@ -140,8 +142,7 @@ def get_weekly():
             # print(f"Processed {file_path}. Output saved to {output_file_path}")
 
         except Exception as e:
-            # print(f"Error processing {file_path}: {e}")
-            print()
+            print(f"Error processing {file_path}: {e}")
 
     # Iterate through each CSV file in the db_folder
     for filename in os.listdir(db_folder_path):
@@ -162,8 +163,11 @@ def get_monthly():
     def process_csv_file(file_path):
         try:
             # Read the CSV file into a DataFrame
-            df = pd.read_csv(file_path)
+            df = pd.read_csv(file_path, dtype={'AirTF': 'object', 'RH': 'object', 'Rainfall_Tot': 'float'})
             df['TIMESTAMP'] = pd.to_datetime(df['TIMESTAMP'])
+
+            df['AirTF'] = pd.to_numeric(df['AirTF'], errors='coerce')
+            df['RH'] = pd.to_numeric(df['RH'], errors='coerce')
 
             # Get the most recent timestamp
             max_timestamp = df['TIMESTAMP'].max()
@@ -187,8 +191,7 @@ def get_monthly():
             # print(f"Processed {file_path}. Output saved to {output_file_path}")
 
         except Exception as e:
-            # print(f"Error processing {file_path}: {e}")
-            print()
+            print(f"Error processing {file_path}: {e}")
 
     # Iterate through each CSV file in the db_folder
     for filename in os.listdir(db_folder_path):
@@ -207,10 +210,11 @@ def get_yearly():
     def process_csv_file(file_path):
         try:
             # Read the CSV file into a DataFrame
-            df = pd.read_csv(file_path)
-
-
+            df = pd.read_csv(file_path, dtype={'AirTF': 'object', 'RH': 'object', 'Rainfall_Tot': 'float'})
             df['TIMESTAMP'] = pd.to_datetime(df['TIMESTAMP'])
+
+            df['AirTF'] = pd.to_numeric(df['AirTF'], errors='coerce')
+            df['RH'] = pd.to_numeric(df['RH'], errors='coerce')
 
             # Resample the DataFrame to 1-hour intervals, calculate average of 'AirTF' and 'RH', and sum of 'Rainfall_Tot'
             yearly = df.resample('W-Mon', on='TIMESTAMP').agg({'AirTF': 'mean', 'RH': 'mean', 'Rainfall_Tot': 'sum'}).reset_index()
@@ -229,8 +233,8 @@ def get_yearly():
             # print(f"Processed {file_path}. Output saved to {output_file_path}")
 
         except Exception as e:
-            # print(f"Error processing {file_path}: {e}")
-            print()
+            print(f"Error processing {file_path}: {e}")
+
 
     # Iterate through each CSV file in the db_folder
     for filename in os.listdir(db_folder_path):
@@ -242,7 +246,7 @@ def get_yearly():
 
 
 # fetch_data()
-get_daily()
+# get_daily()
 # get_weekly()
 # get_monthly()
 # get_yearly()

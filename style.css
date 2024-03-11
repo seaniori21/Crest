@@ -3,6 +3,8 @@
   --white: #ffffff;
 }
 
+
+
 .nv-x .nv-axislabel{
   font-size: 14px;
   fill: black;
@@ -52,11 +54,21 @@ html {
   margin-left: 20px;
 }
 
+#current-site-address{
+  font-size: 1.05em;
+  color: black;
+  margin-left: 20px;
+  margin-top: 14px;
+}
+
 #time-selector-container {
   margin-top: 0%;
   text-align: left;
 }
 
+.container{
+  display: flex;
+}
 
 
 .custom-hr {

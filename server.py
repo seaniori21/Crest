@@ -1,14 +1,3 @@
-'''
-Tasks:
-1. UI: let charts temp and humidity start from 0 to 100
-    Let rainfall have 6 ticks always with leeway at the top
-
-2. Backend:
-    Let there always be data within the website daily, weekly, monthly...etc
-    Do this by adjusting backend, instead of 24 hours fro
-'''
-
-
 import atexit
 from flask import Flask, jsonify, request, json
 from flask_cors import CORS
@@ -36,11 +25,12 @@ def test():
 
 
 def load_json_data(sitemapping, time_map):
-    json_folder = 'plot_data_Folder'
-    folder_map = {"1D":"/daily_plot_data", "1W":"/weekly_plot_data", "1M":"/monthly_plot_data", "1Y":"/yearly_plot_data"}    
+    json_folder = 'plot_data_Folder\\'
+    #folder_map = {"1D":"/daily_plot_data", "1W":"/weekly_plot_data", "1M":"/monthly_plot_data", "1Y":"/yearly_plot_data"}    
     # sitemapping parameter
-    json_folder = json_folder + folder_map[time_map]
+    json_folder = json_folder + time_map #folder_map[time_map]
     json_file_path = os.path.join(json_folder, f'{sitemapping}.json')
+    print("Json_path", json_file_path)
 
     # Load the JSON data from the file
     if os.path.exists(json_file_path):
@@ -51,28 +41,31 @@ def load_json_data(sitemapping, time_map):
         # Return None if the file does not exist
         return jsonify("fails")
 
-@app.route('/<sitemapping>-<time_map>.json', methods=['GET', 'POST'])
-def api_response(sitemapping, time_map):
+@app.route('/<time_map>/<sitemapping>.json', methods=['GET', 'POST'])
+def api_response(time_map,sitemapping):
     # Load JSON data based on the sitemapping parameter
+    # Recieves links like this /daily_plot_data/Site22_New_York_Harbor_School_Fifteen.json
     json_data = load_json_data(sitemapping,time_map)
 
     if json_data is not None:
         return jsonify(json_data)
     else:
-        return jsonify({"error": "Not Found"}), 404
+        return jsonify({"error": "Not Found"})
 
 
+
+# print("Starting")
 if __name__ == "__main__":
     scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', minute=15)
     scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', day=1)
     scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', week=1)
     scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', week=1)
     scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', week=1)
-    # scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', second=30)
-    # scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', second=60)
-    # scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', second=60)
-    # scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', second=60)
-    # scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', second=60)
+    # # scheduler.add_job(id='fetch_data', func=fetch_data, trigger='cron', second=30)
+    # # scheduler.add_job(id='get_daily', func=get_daily, trigger='cron', second=60)
+    # # scheduler.add_job(id='get_weekly', func=get_weekly, trigger='cron', second=60)
+    # # scheduler.add_job(id='get_monthly', func=get_monthly, trigger='cron', second=60)
+    # # scheduler.add_job(id='get_yearly', func=get_yearly, trigger='cron', second=60)
     scheduler.start()
     app.run(debug=True, use_reloader=False, threaded=True)
 
