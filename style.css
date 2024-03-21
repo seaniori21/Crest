@@ -3,33 +3,6 @@
   --white: #ffffff;
 }
 
-
-
-.nv-x .nv-axislabel{
-  font-size: 14px;
-  fill: black;
-  font-weight: bold;
-}
-#chart1 .nv-x text {
-  display: none; /* Hide x-axis labels */
-}
-#chart1 {
-  margin-bottom: -30px
-}
-
-#chart2 .nv-x text {
-  display: none; /* Hide x-axis labels */
-}
-#chart2 {
-  margin-bottom: -30px
-}
-
-.nv-y .nv-axislabel{
-  font-size: 14px;
-  fill: black;
-  font-weight: bold;
-}
-
 html {
   height: 100%;
   width: 100%;
@@ -46,20 +19,27 @@ html {
 }
 
 #current-site-title{
-  font-size: 2em;
-  font-weight: bold;
-  text-align: left;
-  /* text-transform: uppercase; */
-  color: #245ba3;
-  margin-left: 20px;
+  font-size: 1.5em;
+  font-weight: normal;
+  color: Black;
+  margin-left: .25em;
 }
 
 #current-site-address{
-  font-size: 1.05em;
+  font-size: 1.30em;
+  font-weight: lighter;
   color: black;
-  margin-left: 20px;
+  margin-left: 2em;
   margin-top: 14px;
 }
+
+img {
+  width: 350px;
+  height: auto; /* aspect ratio */
+  border: 1px solid #ddd; 
+  border-radius: 5px; 
+}
+
 
 #time-selector-container {
   margin-top: 0%;
@@ -68,6 +48,7 @@ html {
 
 .container{
   display: flex;
+  align-items: flex-end;
 }
 
 
@@ -79,16 +60,14 @@ html {
 .custom-line {
   height: 700px;
   width: 5px;
-  background-color: #cce; /* or any other color you prefer */
-  margin-left: 45px ; /* Adjust margin as needed */
+  background-color: #cce; 
+  margin-left: 45px ;
   margin-bottom: -20px;
 }
 
 
 .chart {
-  /* max-width: 1600px; */
-  height: 200px;
-  /* margin: 20px; */
+  height: 220px;
 }
 
 .chart svg {
@@ -97,9 +76,42 @@ html {
   overflow: visible;
 }
 
-.chart .nv-wrap .nv-area {
-  fill: #c0d6ff;
+.nv-y .nv-axislabel{
+  font-size: 14px;
+  fill: black;
+  font-weight: bold;
 }
+.nv-x .nv-axislabel{
+  font-size: 14px;
+  fill: black;
+  font-weight: bold;
+}
+
+#chart1 .nv-x text {
+  display: none; 
+}
+#chart2 .nv-x text {
+  display: none; 
+}
+
+#chart1 {
+  margin-bottom: -30px;
+}
+#chart2 {
+  margin-bottom: -30px
+}
+
+.nv-x .nv-axis .tick line {
+  fill: none;
+  stroke: black;
+  opacity: .1;
+}
+.nv-y .nv-axis .tick line {
+  stroke: black;
+  opacity: .4;
+}
+
+
 
 ul {
   list-style: none;
@@ -143,7 +155,7 @@ ul :hover{
 }
 
 #right-side-container{
-  top: 80px;
+  top: 0px;
   position: relative;
   left: 40px;
 }
@@ -199,12 +211,18 @@ ul :hover{
   font-size: 16px;
   text-align: center;
   text-decoration: none;
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50; 
   color: white;
   border: 1px solid #4CAF50;
   border-radius: 5px;
   cursor: pointer;
 }
 .download-button:hover {
-  background-color: #45a049; /* Darker green on hover */
+  background-color: #45a049; 
+}
+
+
+.bold-text{
+  font-weight: bold;
+  font-size: 1.5em;
 }

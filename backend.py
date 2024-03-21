@@ -71,12 +71,21 @@ def get_daily():
 
             df['AirTF'] = pd.to_numeric(df['AirTF'], errors='coerce')
             df['RH'] = pd.to_numeric(df['RH'], errors='coerce')
-
+            
             # Get the most recent timestamp
             max_timestamp = df['TIMESTAMP'].max()
 
+            last_week = df[df['TIMESTAMP'] > max_timestamp - timedelta(days=30)]
+
+            # Resample the DataFrame to 1-Day intervals, calculate average of 'AirTF' and 'RH', and sum of 'Rainfall_Tot'
+            weeklyData = last_week.resample('15Min', on='TIMESTAMP').agg({'AirTF': 'mean', 'RH': 'mean', 'Rainfall_Tot': 'sum'}).reset_index()
+            
+            # Fill NaN values with 0 for all columns
+            weeklyData.fillna(0, inplace=True)
+
             # Filter data within the last 24 hours
-            last_24_hours = df[df['TIMESTAMP'] > max_timestamp - timedelta(days=5)].copy()
+            last_24_hours = weeklyData[weeklyData['TIMESTAMP'] > max_timestamp - timedelta(days=5)].copy()
+            
             last_24_hours.loc[:, 'TIMESTAMP'] = last_24_hours['TIMESTAMP'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
             json_data = last_24_hours.to_json(orient='records')
@@ -246,7 +255,7 @@ def get_yearly():
 
 
 # fetch_data()
-# get_daily()
+get_daily()
 # get_weekly()
 # get_monthly()
 # get_yearly()
